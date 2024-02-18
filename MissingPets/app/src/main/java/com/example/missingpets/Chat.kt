@@ -292,7 +292,9 @@ fun ChatScreen(senderId: String, senderUsername:String, chatId: Int, chatNameId:
         }
     }
 
-    Column {
+    Column(
+        modifier = Modifier.fillMaxWidth()
+    ) {
         TopAppBar(
             modifier = Modifier.fillMaxWidth(),
             title = {
@@ -319,7 +321,13 @@ fun ChatScreen(senderId: String, senderUsername:String, chatId: Int, chatNameId:
             val configuration: Configuration = context.getResources().getConfiguration()
             var screenWidthDp = configuration.screenWidthDp
             var screenHeightDp = configuration.screenHeightDp
-            LoadingScreen(heightOfSection = screenHeightDp.dp, screenHeightDp = screenHeightDp, text = "")
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth(),
+                horizontalAlignment = Alignment.CenterHorizontally
+            ) {
+                LoadingScreen(heightOfSection = screenHeightDp.dp, screenHeightDp = screenHeightDp, text = "")
+            }
         }
         else {
             Column(

@@ -62,7 +62,6 @@ import kotlinx.coroutines.withContext
 import java.text.SimpleDateFormat
 import java.util.Locale
 import java.util.TimeZone
-import kotlin.random.Random
 
 
 fun formatTime(dateTime: String): String {
@@ -238,10 +237,7 @@ fun ChatItem(userId:String, chat: Chat, onItemClick: (Chat) -> Unit) {
     val chatName = if (userId != chat.lastSenderId) { chat.lastSenderUsername }
     else { chat.lastReceiverUsername }
 
-    val userColors = mutableMapOf<String, Color>()
-    val randomColor = userColors.getOrPut(chatName) {
-        Color(Random.nextFloat(), Random.nextFloat(), Random.nextFloat(), 1f)
-    }
+    val randomColor = superLightGreen
 
     Row(
         modifier = Modifier

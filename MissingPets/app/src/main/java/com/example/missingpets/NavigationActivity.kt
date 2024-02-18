@@ -264,7 +264,7 @@ class NavigationActivity : ComponentActivity(), SensorEventListener {
         var screenWidthDp = configuration.screenWidthDp
         var screenHeightDp = configuration.screenHeightDp
 
-        // INIZIAL SIZE OF ARROW IMAGE
+        // INITIAL SIZE OF ARROW IMAGE
         val imageHeight = screenWidthDp
         val imageWidth = imageHeight
 
