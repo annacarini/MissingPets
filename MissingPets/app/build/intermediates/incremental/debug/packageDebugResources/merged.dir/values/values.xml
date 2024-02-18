@@ -15,6 +15,5 @@
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCM-KEIo9Kc7j1zAt9JKiZi1OFjl2d58Ss</string>
     <string name="google_storage_bucket" translatable="false">missingpets-b3dda.appspot.com</string>
     <string name="project_id" translatable="false">missingpets-b3dda</string>
-    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar"/>
     <style name="Theme.MissingPets" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>
