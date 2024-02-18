@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">1089019296710</string>
+    <string name="google_api_key" translatable="false">AIzaSyCM-KEIo9Kc7j1zAt9JKiZi1OFjl2d58Ss</string>
+    <string name="google_app_id" translatable="false">1:1089019296710:android:3afe893fdb28d92c3650c7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCM-KEIo9Kc7j1zAt9JKiZi1OFjl2d58Ss</string>
+    <string name="google_storage_bucket" translatable="false">missingpets-b3dda.appspot.com</string>
+    <string name="project_id" translatable="false">missingpets-b3dda</string>
+</resources>

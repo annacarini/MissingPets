@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xxxhdpi_ic_launcher_foreground_mp.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xxxhdpi/ic_launcher_foreground_mp.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_sfondo.PNG.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/sfondo.PNG"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-hdpi_ic_launcher_foreground_mp.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-hdpi/ic_launcher_foreground_mp.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_circular_progress_bar.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/circular_progress_bar.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xxhdpi_ic_launcher_foreground_mp.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xxhdpi/ic_launcher_foreground_mp.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_ic_position.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/ic_position.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/layout_layout_map.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/layout/layout_map.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_blank.jpg.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/blank.jpg"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-mdpi_ic_launcher_foreground_mp.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-mdpi/ic_launcher_foreground_mp.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-xhdpi_ic_launcher_foreground_mp.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-xhdpi/ic_launcher_foreground_mp.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/drawable_logo_quadrato.png.flat",
+        "source": "com.example.missingpets.app-main-94:/drawable/logo_quadrato.png"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/xml_backup_rules.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.missingpets.app-merged_res-92:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.missingpets.app-main-94:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

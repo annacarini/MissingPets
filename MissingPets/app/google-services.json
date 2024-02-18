@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089019296710",
+    "project_id": "missingpets-b3dda",
+    "storage_bucket": "missingpets-b3dda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089019296710:android:3afe893fdb28d92c3650c7",
+        "android_client_info": {
+          "package_name": "com.example.missingpets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM-KEIo9Kc7j1zAt9JKiZi1OFjl2d58Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
